@@ -1,4 +1,4 @@
-# WebProject
+# Software Engineering Project
 UniversityProject
 Mission Statement
 
